@@ -3,7 +3,7 @@ abstract class Parent1{
 }
 class Son1 extends Parent1{
     void grow(){
-        System.out.println("我比父亲成长条件好一点：Son1");
+        System.out.println("我比父亲成长条件好一点3333333：Son1");
     }
     void play(){
         System.out.println("我会踢球");

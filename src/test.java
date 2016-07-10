@@ -3,10 +3,10 @@ abstract class Parent{
 }
 class Son extends Parent{
     void grow(){
-        System.out.println("我比父亲成长条件好");
+        System.out.println("我比父亲点点滴滴成长条件好");
     }
     void dance(){
-        System.out.println("我会踢球");
+        System.out.println("我会踢dddd球");
     }
 }
 public class test {
